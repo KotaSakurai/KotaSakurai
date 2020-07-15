@@ -7,7 +7,7 @@ Love trip, products, photo
 
 
 
-# My Links
+# Links
 
 https://www.sakurawi.dev/
 
