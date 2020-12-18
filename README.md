@@ -1,5 +1,9 @@
 # KotaSakurai
 
+思い出の総量をふやす。
+
+大切な瞬間が人生にたくさんつくれるようなプロダクト開発をしています。
+
 <img src="https://user-images.githubusercontent.com/28912034/87041913-e33d8c80-c22d-11ea-8619-404ca065eaba.jpg" width=100>
 
 Love trip, products, photo
