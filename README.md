@@ -14,7 +14,7 @@ Love trip, products, photo
 
 https://crumb.page/
 
-### CoYatteTotte
+### CoYatteTotte(こうやってとって)
 
 https://apps.apple.com/jp/app/coyattetotte/id1523595702
 
